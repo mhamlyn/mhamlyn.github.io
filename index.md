@@ -1,3 +1,4 @@
+<html>
 <script type="text/javascript">
     var clockElement = document.getElementById('clock');
 
@@ -7,3 +8,4 @@
 
     setInterval(clock, 1000);
 </script>
+</html>
